@@ -45,7 +45,7 @@ https://interior-go-with.netlify.app/
 
 ## Features
 
-- Only for desktop view
+- Mobile Responsive
 - Live previews
 
 
@@ -53,7 +53,7 @@ https://interior-go-with.netlify.app/
 
 - Additional browser support to be added.
 
-- Mobile responsivness will added soon.
+- Tablet responsivness will added soon.
 
 ## Feedback
 
